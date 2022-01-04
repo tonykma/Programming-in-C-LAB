@@ -13,7 +13,8 @@ int main(void)
   for(i=0;i<n;i++)
   {
 	  if(a[i]>l)
-      l=a[i];   }
-
-printf("largest element is %d",l); return 0;
+      l=a[i];   
+  {
+   printf("largest element is %d",l);
+   return 0;
 }
