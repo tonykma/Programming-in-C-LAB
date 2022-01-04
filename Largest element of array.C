@@ -14,7 +14,7 @@ int main(void)
   {
 	  if(a[i]>l)
       l=a[i];   
-  {
+  }
    printf("largest element is %d",l);
    return 0;
 }
